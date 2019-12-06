@@ -33,7 +33,7 @@
         "decompress": "^4.2.0",
         "entry-tool": "latest",
         "excel4node": "^1.7.0",
-        "fstream": "^1.0.11",
+        "fstream": "^1.0.12",
         "image-size": "^0.7.1",
         "jquery": "^3.3.1",
         "lodash": "^4.17.11",
