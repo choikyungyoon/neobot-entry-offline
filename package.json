@@ -45,7 +45,7 @@
         "redux": "^4.0.1",
         "redux-persist": "^5.10.0",
         "rimraf": "^2.6.3",
-        "socket.io": "1.7.3",
+        "socket.io": "2.4.0",
         "socket.io-client": "1.7.3",
         "tar": "2.2.1",
         "window-or-global": "^1.0.1",
